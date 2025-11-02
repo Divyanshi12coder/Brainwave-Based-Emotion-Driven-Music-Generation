@@ -19,14 +19,14 @@ This project explores the intersection of neuroscience, machine learning, and mu
 
 | Layer              | Tools / Frameworks |
 |-------------------|--------------------|
-| EEG Acquisition    | Muse SDK / OpenBCI / Emotiv |
-| Signal Processing  | NumPy, SciPy, MNE |
-| Emotion Detection  | Scikit-learn, TensorFlow, Keras |
-| Music Generation   | Magenta, MIDIUtil, PyDub |
-| Backend/API        | Python (FastAPI / Flask) |
-| Frontend (optional)| React.js / Streamlit |
-| Visualization      | Matplotlib, Plotly |
-| Deployment         | Docker, Heroku / Render / Localhost |
+| EEG Acquisition    | OpenBCI  |
+| Signal Processing  | NumPy |
+| Emotion Detection  | Scikit-learn |
+| Music Generation   | Magenta |
+| Backend/API        | Python (FastAPI) |
+| Frontend (optional)| Streamlit |
+| Visualization      | Matplotlib |
+| Deployment         | Docker |
 
 ## 🧪 How It Works
 
@@ -59,6 +59,8 @@ This project explores the intersection of neuroscience, machine learning, and mu
 | Focused   | Medium| Neutral | Lo-fi Beats, Soft Piano  |
 
 
+   ```
+
 ## 📈 Future Enhancements
 
 - 🎤 Voice + EEG fusion for richer emotion detection
@@ -66,8 +68,9 @@ This project explores the intersection of neuroscience, machine learning, and mu
 - 📱 Mobile app version with Bluetooth EEG support
 - 🧘‍♀️ Use in meditation, therapy, and neurofeedback training
 
-
 ## 🤝 Contributing
 
 Pull requests are welcome! For major changes, please open an issue first to discuss what you’d like to change.
+
+
 
