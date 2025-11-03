@@ -70,7 +70,7 @@ This project explores the intersection of neuroscience, machine learning, and mu
 
 ## 🤝 Contributing
 
-Pull requests are welcome! For major changes, please open an issue first to discuss what you’d like to change.
+Pull requests are welcome! For major changes, please open an issue first to discuss what you’d like to change
 
 
 
